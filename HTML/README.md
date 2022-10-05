@@ -18,5 +18,5 @@ Latest Version of HTML is HTML 5.
         ans. An HTML Element is defined by a strat tag, some content, and an end tag.
             Example: 
 ```
-                <p> this is a paragraph </p>
+                <p> this is a paragraph </p>        <!-- This is an HTML Element>
 ```
