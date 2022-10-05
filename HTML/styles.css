@@ -1,0 +1,25 @@
+h1, p {
+    text-align: center;
+    color: palevioletred;
+    background-color: greenyellow;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif;
+    border: 10px dotted black;
+    font-size: 500%;
+}
+
+p{
+    padding: 010px 0px 30px 50px; /* padding: right*/
+    text-align: left;
+    color: red;
+    
+}
+
+img{
+    border: 2px solid green;
+    height: auto;
+    width: 75%;
+    padding: 5px 50px 5px 10px;
+    margin: 10px 40px 10px 30px;
+    align-items: center;
+    background-color: red;
+}
