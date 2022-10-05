@@ -23,5 +23,10 @@ Latest Version of HTML is HTML 5.
 #####   3. Define HTML Page structure.
         ans.The HTML page structure is as like as the below representation: 
         
+<<<<<<< HEAD
         <img src=".data/html-page-structure.gif" height=auto width=100%>
         
+=======
+        <img src=".data/html-page-structure.gif" height=auto width=100%/>
+        
+>>>>>>> b1bb711 (update readme.md)
