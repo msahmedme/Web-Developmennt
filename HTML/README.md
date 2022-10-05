@@ -12,10 +12,11 @@ Latest Version of HTML is HTML 5.
 </div>
 
 ## Interview QUestions:
-###     1. What is HTML?
+####    1. What is HTML?
         ans. HTML is a Hyper Text Markup Language.
-###     2. What is an HTML Element?
+####    2. What is an HTML Element?
         ans. An HTML Element is defined by a strat tag, some content, and an end tag.
-                Example: ```
-                            <p> this is a paragraph </p>
+                Example: 
+                ```
+                    <p> this is a paragraph </p>
                 ```
