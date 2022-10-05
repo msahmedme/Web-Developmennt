@@ -25,3 +25,7 @@ Latest Version of HTML is HTML 5.
         
 ![HTML Page structure](https://github.com/msahmedme/Web-Developmennt/blob/master/.data/html-page-structure.gif?raw=true)
         
+#####   4. Who is the inventor of  HTML?
+        ans. Tim Berners Lee (1991).
+
+#####   5. 
