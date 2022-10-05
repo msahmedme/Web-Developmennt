@@ -20,4 +20,6 @@ Latest Version of HTML is HTML 5.
 ```
                 <p> this is a paragraph </p>  
 ```
-#####   3. 
+#####   3. Define HTML Page structure.
+        ans.The HTML page structure is as like as the below representation: 
+        <img src="/home/sabbir/Downloads/Web Development/.data/html-page-structure.png" height=auto width=100%/>
