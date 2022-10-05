@@ -28,4 +28,5 @@ Latest Version of HTML is HTML 5.
 #####   4. Who is the inventor of  HTML?
         ans. Tim Berners Lee (1991).
 
-#####   5. 
+#####   5. Name some empty tag.
+        ans. <br>, <hr>
