@@ -1,0 +1,12 @@
+#myHeader{
+    color: tomato;
+    background-color: antiquewhite;
+    padding: 40px;
+    text-align: center;
+}
+
+div{
+    background-color: antiquewhite;
+    margin: 20px 50px 20px 50px;
+    padding: 10px;
+}
