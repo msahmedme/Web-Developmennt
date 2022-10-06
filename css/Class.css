@@ -1,0 +1,18 @@
+.city {
+    color: white;
+    background-color: tomato;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.city h2{
+    font-size: 30px;
+    text-align: center;
+    font-family: lato;
+}
+
+.note {
+    font-size: 120%;
+    color: red;
+}
